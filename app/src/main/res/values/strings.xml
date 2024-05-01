@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ClickerWithMemory</string>
+    <string name="description">Было совершено %d кликов</string>
+</resources>
